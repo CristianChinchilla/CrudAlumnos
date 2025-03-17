@@ -44,6 +44,10 @@ public class Metodos {
          } 
     }
     
+    public void Precarga() {
+    
+    }
+    
     public void Mostrar(){
         //Imprime toda la lista
         for (Alumnos alumnos : lista) {
